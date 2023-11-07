@@ -2,7 +2,7 @@
 
 ## Exploring Github
 
-### Vocabulary
+### Vocabulary :
 -git - version control, local
 -GitHub - online platform that allows for code sharing, remote
 -repository/repo - named folder on GitHub
