@@ -20,3 +20,6 @@ cloning - bringing a repo from the remote to the local
 - git push origin branch name
   - right now the branch name is main
   - reconciles the diff between local and remote
+
+### Assets
+- [India Cohorts Syllabus](https://github.com/learn-academy-2023-india/syllabus)
